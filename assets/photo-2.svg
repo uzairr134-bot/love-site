@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Photo 2 placeholder">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7d4bf"/>
+      <stop offset="50%" stop-color="#ef9da8"/>
+      <stop offset="100%" stop-color="#884d72"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg2)"/>
+  <circle cx="450" cy="280" r="170" fill="rgba(255,255,255,0.22)"/>
+  <path d="M230 990c40-180 130-260 220-260s180 80 220 260H230Z" fill="#ffe9f1" opacity="0.9"/>
+  <circle cx="450" cy="420" r="120" fill="#f5c9b8"/>
+  <path d="M325 500c35-95 110-160 215-160 80 0 146 38 190 110l-54 24c-28-43-78-71-134-71-78 0-130 50-160 122l-57-25Z" fill="#2d1232"/>
+  <path d="M320 610c62 35 128 56 170 56 52 0 111-18 170-60l32 42c-57 69-125 102-202 102-78 0-147-34-202-104l32-36Z" fill="#f6d7e1"/>
+  <text x="450" y="1080" text-anchor="middle" font-size="64" font-family="Georgia, serif" fill="#fff8fb" letter-spacing="6">Photo 2</text>
+</svg>
